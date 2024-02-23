@@ -1,7 +1,7 @@
 # Money Tracking
 Project°°
 
-# TrackMoney Expense Tracker
+# Money Tracking 
 
 TrackMoney is a simple C# console application designed to help you manage your expenses and incomes. It provides a text-based user interface for adding, editing, and removing items, along with the ability to sort and filter them.
 
@@ -24,12 +24,13 @@ TrackMoney is a simple C# console application designed to help you manage your e
 
 1. Clone the repository:
 
-git clone 
+git clone https://github.com/Waspk/Money-Tracking.git
 
 
 2. Run the application:
+  Using Visual Studio or any other code editor of your choice 
 
-3. Follow the on-screen instructions to interact with the expense tracker.
+4. Follow the on-screen instructions to interact with the Money tracker.
 
 ## Usage
 
