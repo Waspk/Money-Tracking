@@ -1,0 +1,4 @@
+Rent,-1000,1
+Salary,2500,1
+Gas,-50,2
+Groceries,-200,2
